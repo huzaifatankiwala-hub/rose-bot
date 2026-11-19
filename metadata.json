@@ -1,0 +1,10 @@
+{
+  "name": "CA Rose Bot Studio",
+  "description": "Telegram group management, single-message tag-all, live weather, and CA-specialized Gemini AI study guider studio.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
